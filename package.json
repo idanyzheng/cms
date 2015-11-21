@@ -1,0 +1,19 @@
+{
+  "name": "f",
+  "version": "1.0.0",
+  "description": "f is a cms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idanyzheng/cms.git"
+  },
+  "author": "didi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idanyzheng/cms/issues"
+  },
+  "homepage": "https://github.com/idanyzheng/cms#readme"
+}
