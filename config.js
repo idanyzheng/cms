@@ -46,10 +46,7 @@ var config = {
     description: '',
     //最多获取的RSS Item数量
     max_rss_items: 50
-  },
-
-if (process.env.NODE_ENV === 'test') {
-  config.db = 'mongodb://127.0.0.1/node_club_test';
+  }
 }
 
 module.exports = config;

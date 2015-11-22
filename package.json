@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/idanyzheng/cms#readme",
   "dependencies": {
+    "ejs-mate": "^2.3.0",
     "express": "^4.13.3"
   }
 }
